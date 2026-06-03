@@ -1,0 +1,5 @@
+pandas
+openpyxl
+spacy
+tqdm
+google-genai

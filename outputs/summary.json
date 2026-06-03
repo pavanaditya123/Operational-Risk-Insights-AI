@@ -1,0 +1,95 @@
+{
+  "total_records_processed": 183,
+  "unique_keyphrases_found": 257,
+  "recurring_issues_found": 19,
+  "top_issues": [
+    {
+      "keyword": "26-inch Hole",
+      "count": 8,
+      "file_numbers": [
+        "111025",
+        "111029",
+        "111030"
+      ]
+    },
+    {
+      "keyword": "Drilling Parameters",
+      "count": 8,
+      "file_numbers": [
+        "111026",
+        "111027",
+        "111029",
+        "111030"
+      ]
+    },
+    {
+      "keyword": "26-inch Section",
+      "count": 6,
+      "file_numbers": [
+        "111025",
+        "111026",
+        "111028",
+        "111030"
+      ]
+    },
+    {
+      "keyword": "26-inch Hole Section",
+      "count": 4,
+      "file_numbers": [
+        "111025",
+        "111027",
+        "111028",
+        "111029"
+      ]
+    },
+    {
+      "keyword": "Low Rate",
+      "count": 3,
+      "file_numbers": [
+        "111028",
+        "111029",
+        "111030"
+      ]
+    },
+    {
+      "keyword": "Ground Elevation Offset",
+      "count": 2,
+      "file_numbers": [
+        "111030",
+        "111114"
+      ]
+    },
+    {
+      "keyword": "Bit Bounce",
+      "count": 2,
+      "file_numbers": [
+        "111025",
+        "111026"
+      ]
+    },
+    {
+      "keyword": "Near Bit Stabilizer",
+      "count": 2,
+      "file_numbers": [
+        "111025",
+        "111029"
+      ]
+    },
+    {
+      "keyword": "Water Conservation",
+      "count": 2,
+      "file_numbers": [
+        "111025",
+        "111026"
+      ]
+    },
+    {
+      "keyword": "Verticality Monitoring",
+      "count": 2,
+      "file_numbers": [
+        "111026",
+        "111030"
+      ]
+    }
+  ]
+}
