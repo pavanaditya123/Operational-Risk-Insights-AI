@@ -1,5 +1,6 @@
 import json
 import os
+import time
 from pathlib import Path
 
 
@@ -301,6 +302,7 @@ ALLOWED_CATEGORIES = {
     "Safety Risk",
     "Not Risk",
 }
+TRANSIENT_GEMINI_STATUS_CODES = {429, 500, 502, 503, 504}
 
 RISK_ITEM_SCHEMA = {
     "type": "object",
@@ -359,6 +361,25 @@ def load_json(path):
         return json.load(file)
 
 
+def load_env_file(path=".env"):
+    env_path = Path(path)
+    if not env_path.exists():
+        return
+
+    with env_path.open("r", encoding="utf-8") as file:
+        for line in file:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+
+            key, value = line.split("=", 1)
+            key = key.strip()
+            value = value.strip().strip("\"'")
+
+            if key and key not in os.environ:
+                os.environ[key] = value
+
+
 def write_json(data, path):
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -380,28 +401,55 @@ def build_user_prompt(chunk):
     )
 
 
-def call_gemini_for_chunk(chunk, model):
+def is_retryable_gemini_error(error):
+    return getattr(error, "code", None) in TRANSIENT_GEMINI_STATUS_CODES
+
+
+def call_gemini_for_chunk(chunk, model, max_retries=3, retry_delay=10):
     try:
         from google import genai
+        from google.genai import errors as genai_errors
     except ImportError as exc:
         raise RuntimeError(
             "Google GenAI package is not installed. Run: python -m pip install google-genai"
         ) from exc
 
+    load_env_file()
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        raise RuntimeError("GEMINI_API_KEY is not set.")
+        raise RuntimeError(
+            "GEMINI_API_KEY is not set. Add it to .env or export it in your shell."
+        )
 
     client = genai.Client(api_key=api_key)
-    response = client.models.generate_content(
-        model=model,
-        contents=build_user_prompt(chunk),
-        config={
-            "system_instruction": SYSTEM_PROMPT,
-            "response_mime_type": "application/json",
-            "response_json_schema": RISK_SCHEMA,
-        },
-    )
+
+    for attempt in range(max_retries + 1):
+        try:
+            response = client.models.generate_content(
+                model=model,
+                contents=build_user_prompt(chunk),
+                config={
+                    "system_instruction": SYSTEM_PROMPT,
+                    "response_mime_type": "application/json",
+                    "response_json_schema": RISK_SCHEMA,
+                },
+            )
+            break
+        except genai_errors.APIError as exc:
+            if not is_retryable_gemini_error(exc) or attempt >= max_retries:
+                raise RuntimeError(
+                    "Gemini request failed. If the error is 503 UNAVAILABLE, "
+                    "the model is temporarily overloaded; try again later or "
+                    "increase --max-retries."
+                ) from exc
+
+            wait_seconds = retry_delay * (2 ** attempt)
+            print(
+                "Gemini temporary error "
+                f"{exc.code}; retrying in {wait_seconds}s "
+                f"({attempt + 1}/{max_retries})"
+            )
+            time.sleep(wait_seconds)
 
     parsed = json.loads(response.text)
     if isinstance(parsed, list):
@@ -504,13 +552,26 @@ def sort_risks(risk_items):
     )
 
 
-def analyze_risks(analytics, chunk_size=25, model=None, include_not_risk=False):
+def analyze_risks(
+    analytics,
+    chunk_size=25,
+    model=None,
+    include_not_risk=False,
+    max_retries=3,
+    retry_delay=10,
+):
+    load_env_file()
     model = model or os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
     all_risks = []
 
     for chunk_number, chunk in enumerate(chunk_items(analytics, chunk_size), start=1):
         print(f"Analyzing risk chunk {chunk_number} ({len(chunk)} items)")
-        chunk_risks = call_gemini_for_chunk(chunk, model=model)
+        chunk_risks = call_gemini_for_chunk(
+            chunk,
+            model=model,
+            max_retries=max_retries,
+            retry_delay=retry_delay,
+        )
         all_risks.extend(validate_and_repair_risk_items(chunk_risks, chunk))
 
     if not include_not_risk:

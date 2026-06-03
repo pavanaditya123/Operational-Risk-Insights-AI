@@ -48,42 +48,10 @@
     ]
   },
   {
-    "keyword": "Ground Elevation Offset",
+    "keyword": "26-Inch Surface Hole",
     "count": 2,
     "file_numbers": [
-      "111030",
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Bit Bounce",
-    "count": 2,
-    "file_numbers": [
-      "111025",
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Near Bit Stabilizer",
-    "count": 2,
-    "file_numbers": [
-      "111025",
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Water Conservation",
-    "count": 2,
-    "file_numbers": [
-      "111025",
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Verticality Monitoring",
-    "count": 2,
-    "file_numbers": [
-      "111026",
+      "111028",
       "111030"
     ]
   },
@@ -96,27 +64,34 @@
     ]
   },
   {
+    "keyword": "Ander-Drift inclination survey",
+    "count": 2,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Bit Bounce",
+    "count": 2,
+    "file_numbers": [
+      "111025",
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Ground Elevation Offset",
+    "count": 2,
+    "file_numbers": [
+      "111030",
+      "111114"
+    ]
+  },
+  {
     "keyword": "Hydraulic Parameters",
     "count": 2,
     "file_numbers": [
       "111028",
       "111029"
-    ]
-  },
-  {
-    "keyword": "Mechanical Drilling Parameters",
-    "count": 2,
-    "file_numbers": [
-      "111028",
-      "111029"
-    ]
-  },
-  {
-    "keyword": "26-Inch Surface Hole",
-    "count": 2,
-    "file_numbers": [
-      "111028",
-      "111030"
     ]
   },
   {
@@ -128,9 +103,10 @@
     ]
   },
   {
-    "keyword": "Ander-Drift inclination survey",
+    "keyword": "Mechanical Drilling Parameters",
     "count": 2,
     "file_numbers": [
+      "111028",
       "111029"
     ]
   },
@@ -138,6 +114,14 @@
     "keyword": "mud weight",
     "count": 2,
     "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Near Bit Stabilizer",
+    "count": 2,
+    "file_numbers": [
+      "111025",
       "111029"
     ]
   },
@@ -157,378 +141,30 @@
     ]
   },
   {
-    "keyword": "High-Pressure Surface Line Leak Risk",
-    "count": 1,
+    "keyword": "Verticality Monitoring",
+    "count": 2,
     "file_numbers": [
-      "111114"
+      "111026",
+      "111030"
     ]
   },
   {
-    "keyword": "Inclination-Only Surveying",
-    "count": 1,
+    "keyword": "Water Conservation",
+    "count": 2,
     "file_numbers": [
-      "111114"
+      "111025",
+      "111026"
     ]
   },
   {
-    "keyword": "Wellbore Trajectory Uncertainty",
+    "keyword": "175m to 195m",
     "count": 1,
     "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Simple Tightening",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "High-Pressure Leaks",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Cement Return Timing",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Surface Casing Slurry",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Ground Elevation Reference",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Negative KB",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Directional Survey Limitation",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Loss Performance",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Surface Casing Cement Returns",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Cumulative Cost Overrun",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Recorded Directional Survey Data",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Significant Gap",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Limited Data Capability",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Ander-Drift Survey Tool",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Operation Classification",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Rig Repair",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Cementing Job",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Significant Mud Disposal",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Upper Fars",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Formation Top Depth",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Continuous Circulation",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Surface Repairs",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Flushing BOPs",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Joint Handling",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Post-Cement Float Holding Verification",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Stinger Sealing Protocol",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Weight Application",
-    "count": 1,
-    "file_numbers": [
-      "111114"
+      "111029"
     ]
   },
   {
     "keyword": "20-Inch Casing",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Tail Cement Slurry Parameters",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Cement Under-Displacement Procedure",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Post-Cementing Circulation Procedure",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Inner Stinger RIH String Configuration",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Shaker Screen Sizing",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Deck No",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Shaker Cleaning Criteria",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Cement Stinger Space",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Pup Joints",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Pump Rates",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Pre-Cementing Circulation Volume",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Surface Line Pressure Testing Standards",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Pre-Cementing Spacer and Flush Sequence",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Lead Cement Slurry Pumping Parameters",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Surface Line Flush",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Pressure Testing",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Track Upper Fars Formation Top",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Bakhtiari Formation",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Surface Interval",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Casing Filling Frequency Protocol",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Centralizer Installation Compliance",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Pre-Job Safety Meeting Implementation",
-    "count": 1,
-    "file_numbers": [
-      "111114"
-    ]
-  },
-  {
-    "keyword": "Casing Elevator Specification",
     "count": 1,
     "file_numbers": [
       "111114"
@@ -542,252 +178,147 @@
     ]
   },
   {
-    "keyword": "Equipment Damage Risk",
+    "keyword": "26-Inch BHA",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111029"
     ]
   },
   {
-    "keyword": "Rough Drilling",
+    "keyword": "26-Inch Hole Drilling",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111029"
     ]
   },
   {
-    "keyword": "Microwave Tower Rigidity Risk",
+    "keyword": "26-Inch Hole Section Drilling",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111029"
     ]
   },
   {
-    "keyword": "High Winds",
+    "keyword": "26-inch String Stabilizers",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111026"
     ]
   },
   {
-    "keyword": "Downhole Fluid Losses",
+    "keyword": "26-inch Vertical Surface Hole",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111027"
     ]
   },
   {
-    "keyword": "Total Drilling Fluid Losses",
+    "keyword": "26-Inch Vertical Surface Hole Drilling Interval",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111028"
     ]
   },
   {
-    "keyword": "Fluid Losses",
+    "keyword": "5 1/2-inch HWDP",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111027"
     ]
   },
   {
-    "keyword": "Mud Building Rate",
+    "keyword": "8 1/4-inch",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111027"
     ]
   },
   {
-    "keyword": "Intranet Usage",
+    "keyword": "8 1/4-inch drill collars",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111029"
     ]
   },
   {
-    "keyword": "Simultaneous VOIP",
+    "keyword": "9 1/2-inch DC Connection",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111027"
     ]
   },
   {
-    "keyword": "Electrical Grounding",
+    "keyword": "Ander-Drift Survey",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111030"
     ]
   },
   {
-    "keyword": "Significant Fluid Losses",
+    "keyword": "Ander-Drift Survey Tool",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111114"
     ]
   },
   {
-    "keyword": "Functional Wireless System",
+    "keyword": "Ander-Drift Surveys",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111026"
     ]
   },
   {
-    "keyword": "Wireless Connectivity",
+    "keyword": "Ander-Drift Tool",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111029"
     ]
   },
   {
-    "keyword": "Data Transmission Interference",
+    "keyword": "Asymmetric Nozzle Configuration",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111029"
     ]
   },
   {
-    "keyword": "Shared Conduits",
+    "keyword": "Backreaming Procedure",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111027"
     ]
   },
   {
-    "keyword": "Conflicting Depth Data",
+    "keyword": "Bakhtiari Formation",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111114"
     ]
   },
   {
-    "keyword": "Rough Road Conditions",
+    "keyword": "BHA Crossover Sub Configuration Specifications",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111028"
     ]
   },
   {
-    "keyword": "Well Site",
+    "keyword": "BHA Handling and Elevator Changes",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111026"
     ]
   },
   {
-    "keyword": "High Cumulative Swivel Hours",
+    "keyword": "BHA Makeup",
     "count": 1,
     "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Large Diameter Hole Section",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Tagged Bottom Depth Measurement",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Significant Timeline",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Office IT Cabling Installation",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Postpone Equipment Installation",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Proper Infrastructure",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Rigorous Inspection",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Unfit Equipment",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Conduct Pre-Spud Meeting",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "to Review Operational Objectives",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Maximum Pump Pressure Limit",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Rough Drilling Operations",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Rig Floor Access",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Float Inclusion",
-    "count": 1,
-    "file_numbers": [
-      "111025"
+      "111026"
     ]
   },
   {
     "keyword": "BHA Running Operations",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Conduct PJSM",
     "count": 1,
     "file_numbers": [
       "111025"
@@ -801,66 +332,17 @@
     ]
   },
   {
-    "keyword": "Drilling Cement",
+    "keyword": "Bit and Torque Parameters",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111030"
     ]
   },
   {
-    "keyword": "Initial Formation Drilling",
+    "keyword": "Bit Pattern",
     "count": 1,
     "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Operational Torque Limits",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Wellbore Verticality",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Spud Phase",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Initial Drilling Phase",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Potential Work-around",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "IT Service Limitations",
-    "count": 1,
-    "file_numbers": [
-      "111025"
-    ]
-  },
-  {
-    "keyword": "Operational Weight",
-    "count": 1,
-    "file_numbers": [
-      "111025"
+      "111026"
     ]
   },
   {
@@ -871,38 +353,66 @@
     ]
   },
   {
-    "keyword": "Target Mill RPM Range",
+    "keyword": "Bolt Inspection",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111030"
     ]
   },
   {
-    "keyword": "Standardized Rig Acceptance",
+    "keyword": "Casing Elevator Specification",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111114"
     ]
   },
   {
-    "keyword": "Commissioning Tracking",
+    "keyword": "Casing Filling Frequency Protocol",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111114"
     ]
   },
   {
-    "keyword": "Standard Flow Rate",
+    "keyword": "Cement Clean-out",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111026"
     ]
   },
   {
-    "keyword": "Multiple Daily Pre-Job Safety Meetings",
+    "keyword": "Cement Return Timing",
     "count": 1,
     "file_numbers": [
-      "111025"
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Cement Stinger Space",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Cement Under-Displacement Procedure",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Cementing Job",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Centralizer Installation Compliance",
+    "count": 1,
+    "file_numbers": [
+      "111114"
     ]
   },
   {
@@ -913,66 +423,143 @@
     ]
   },
   {
-    "keyword": "Wellbore Instability Risk",
+    "keyword": "Closed-Circuit Water Stream",
     "count": 1,
     "file_numbers": [
       "111026"
     ]
   },
   {
-    "keyword": "Equipment Damage",
+    "keyword": "Commissioning Tracking",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Comprehensive Casing String Parameter Documentation",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ]
+  },
+  {
+    "keyword": "Concentration Maintenance",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Conduct PJSM",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Conduct Pre-Spud Meeting",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Conflicting Depth Data",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Continuous CaCO3 Addition",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Continuous Circulation",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Continuous Pump Suction",
     "count": 1,
     "file_numbers": [
       "111026"
     ]
   },
   {
-    "keyword": "Personnel Injury",
+    "keyword": "Controlled KCl Addition Rate",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Crossover Sub Assembly",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Crossover Sub Configuration",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Crossover Usage",
     "count": 1,
     "file_numbers": [
       "111026"
     ]
   },
   {
-    "keyword": "Multiple Reaming Passes",
+    "keyword": "Cumulative Cost Overrun",
     "count": 1,
     "file_numbers": [
-      "111026"
+      "111114"
     ]
   },
   {
-    "keyword": "Hole Verification",
+    "keyword": "daily cost reporting",
     "count": 1,
     "file_numbers": [
-      "111026"
+      "111029"
     ]
   },
   {
-    "keyword": "Surface Formation",
+    "keyword": "Data Transmission Interference",
     "count": 1,
     "file_numbers": [
-      "111026"
+      "111025"
     ]
   },
   {
-    "keyword": "Lithology Composition",
+    "keyword": "Deck No",
     "count": 1,
     "file_numbers": [
-      "111026"
+      "111114"
     ]
   },
   {
-    "keyword": "Slow Rate",
+    "keyword": "Declining ROP Trend",
     "count": 1,
     "file_numbers": [
-      "111026"
+      "111027"
     ]
   },
   {
-    "keyword": "Ground Level Concern",
+    "keyword": "deep reaming",
     "count": 1,
     "file_numbers": [
-      "111026"
+      "111029"
     ]
   },
   {
@@ -990,248 +577,31 @@
     ]
   },
   {
-    "keyword": "BHA Handling and Elevator Changes",
+    "keyword": "Directional Control",
     "count": 1,
     "file_numbers": [
-      "111026"
+      "111029"
     ]
   },
   {
-    "keyword": "Operational Constraints",
+    "keyword": "Directional Survey Data Entry",
     "count": 1,
     "file_numbers": [
-      "111026"
+      "111030"
     ]
   },
   {
-    "keyword": "Hole Condition Maintenance",
+    "keyword": "Directional Survey Limitation",
     "count": 1,
     "file_numbers": [
-      "111026"
+      "111114"
     ]
   },
   {
-    "keyword": "Prevent Cuttings Build-up",
+    "keyword": "Downhole Fluid Losses",
     "count": 1,
     "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Closed-Circuit Water Stream",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Recommended 26-inch Hole Drilling Parameters",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Ander-Drift Surveys",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Mandatory Safety Meetings",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Spud and BHA Handling",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "26-inch String Stabilizers",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "BHA Makeup",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Mandatory Elevator Size Verification",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Bit Pattern",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Gradual Weight Increase",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Crossover Usage",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Cement Clean-out",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Flow Line Sensors",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Water Level Monitoring",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Continuous Pump Suction",
-    "count": 1,
-    "file_numbers": [
-      "111026"
-    ]
-  },
-  {
-    "keyword": "Three Pumps",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Rig Power Limitation",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Five Generators",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "False Flow Indications",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Thick Mud Slugs",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Declining ROP Trend",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Hole Inclination",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Ground Elevation References",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Unconventional KB",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Flow Check Duration",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Surface Flow Indications",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Prevent Mud Slugs",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Controlled KCl Addition Rate",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Top Drive Bolt Inspection Post-Spudding",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "26-inch Vertical Surface Hole",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Handling Equipment Changeover",
-    "count": 1,
-    "file_numbers": [
-      "111027"
+      "111025"
     ]
   },
   {
@@ -1242,175 +612,14 @@
     ]
   },
   {
-    "keyword": "Backreaming Procedure",
+    "keyword": "Drilling Cement",
     "count": 1,
     "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Repeated Reaming",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Verifying Hole Condition",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "5 1/2-inch HWDP",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Crossover Sub Configuration",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "9 1/2-inch DC Connection",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "8 1/4-inch",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Crossover Sub Assembly",
-    "count": 1,
-    "file_numbers": [
-      "111027"
-    ]
-  },
-  {
-    "keyword": "Ground Elevation Distance",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Surface Hole Verticality Maintenance",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Operational Trouble",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Successful Surface Drilling",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "26-Inch Vertical Surface Hole Drilling Interval",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Surface Section Reaming",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Stable Hole Conditions",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Fire Team Duty Familiarization Exercise",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Proactive Use",
-    "count": 1,
-    "file_numbers": [
-      "111028"
+      "111025"
     ]
   },
   {
     "keyword": "Drilling Jars",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Surface BHA",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "T-Card System",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Emergency Head",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "BHA Crossover Sub Configuration Specifications",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Pre-Installation Casing Preparation Protocol",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Underflow Monitoring Protocols",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Standardized Shaker",
     "count": 1,
     "file_numbers": [
       "111028"
@@ -1424,69 +633,6 @@
     ]
   },
   {
-    "keyword": "Required Monitoring",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Low Gravity Solids",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Continuous CaCO3 Addition",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "Concentration Maintenance",
-    "count": 1,
-    "file_numbers": [
-      "111028"
-    ]
-  },
-  {
-    "keyword": "excessive torque",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "deep reaming",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Inconsistent mud density data",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Ground Distance",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Reported End Depth",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
     "keyword": "Drilling Period",
     "count": 1,
     "file_numbers": [
@@ -1494,143 +640,31 @@
     ]
   },
   {
-    "keyword": "daily cost reporting",
+    "keyword": "Electrical Grounding",
     "count": 1,
     "file_numbers": [
-      "111029"
+      "111025"
     ]
   },
   {
-    "keyword": "High one-off insurance charge",
+    "keyword": "Emergency Head",
     "count": 1,
     "file_numbers": [
-      "111029"
+      "111028"
     ]
   },
   {
-    "keyword": "hole conditioning",
+    "keyword": "Equipment Damage",
     "count": 1,
     "file_numbers": [
-      "111029"
+      "111026"
     ]
   },
   {
-    "keyword": "road accessibility issues",
+    "keyword": "Equipment Damage Risk",
     "count": 1,
     "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Asymmetric Nozzle Configuration",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "shock sub",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "175m to 195m",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "surface drilling section",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "liner configuration",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Mud pump",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Three-Point BHA Stabilization Strategy",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Hydraulic Drilling Jars",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "26-Inch Hole Section Drilling",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Standard drilling parameters",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "26-Inch Hole Drilling",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Vibration Mitigation",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "26-Inch BHA",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Ander-Drift Tool",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "Inclination-Only Surveys",
-    "count": 1,
-    "file_numbers": [
-      "111029"
-    ]
-  },
-  {
-    "keyword": "8 1/4-inch drill collars",
-    "count": 1,
-    "file_numbers": [
-      "111029"
+      "111025"
     ]
   },
   {
@@ -1641,133 +675,147 @@
     ]
   },
   {
-    "keyword": "Directional Control",
+    "keyword": "excessive torque",
     "count": 1,
     "file_numbers": [
       "111029"
     ]
   },
   {
-    "keyword": "Shock Sub Integration",
+    "keyword": "False Flow Indications",
     "count": 1,
     "file_numbers": [
-      "111029"
+      "111027"
     ]
   },
   {
-    "keyword": "Vibration Dampening",
+    "keyword": "Fire Team Duty Familiarization Exercise",
     "count": 1,
     "file_numbers": [
-      "111029"
+      "111028"
     ]
   },
   {
-    "keyword": "Verticality Control",
+    "keyword": "Five Generators",
     "count": 1,
     "file_numbers": [
-      "111029"
+      "111027"
     ]
   },
   {
-    "keyword": "Hole Verticality",
+    "keyword": "Float Inclusion",
     "count": 1,
     "file_numbers": [
-      "111029"
+      "111025"
     ]
   },
   {
-    "keyword": "Hole Stability Verification",
+    "keyword": "Flow Check Duration",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Flow Line Sensors",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Fluid Losses",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Flushing BOPs",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Formation Sample Top Depth Documentation Requirements",
     "count": 1,
     "file_numbers": [
       "111030"
     ]
   },
   {
-    "keyword": "Stuck Pipe",
+    "keyword": "Formation Top Depth",
     "count": 1,
     "file_numbers": [
-      "111030"
+      "111114"
     ]
   },
   {
-    "keyword": "Wellbore Deviation",
+    "keyword": "Functional Wireless System",
     "count": 1,
     "file_numbers": [
-      "111030"
+      "111025"
     ]
   },
   {
-    "keyword": "Hydraulic Calculation Module Data Failure",
+    "keyword": "Gradual Weight Increase",
     "count": 1,
     "file_numbers": [
-      "111030"
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Ground Distance",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Ground Elevation Distance",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Ground Elevation Reference",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Ground Elevation References",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Ground Level Concern",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Handling Equipment Changeover",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "High Cumulative Swivel Hours",
+    "count": 1,
+    "file_numbers": [
+      "111025"
     ]
   },
   {
     "keyword": "High Daily Rig Fuel Consumption Rates",
-    "count": 1,
-    "file_numbers": [
-      "111030"
-    ]
-  },
-  {
-    "keyword": "Directional Survey Data Entry",
-    "count": 1,
-    "file_numbers": [
-      "111030"
-    ]
-  },
-  {
-    "keyword": "Negative KB-Ground Distance Offset Configuration",
-    "count": 1,
-    "file_numbers": [
-      "111030"
-    ]
-  },
-  {
-    "keyword": "Report Date and Print Date",
-    "count": 1,
-    "file_numbers": [
-      "111030"
-    ]
-  },
-  {
-    "keyword": "Mud Additive Consumption Data Tracking",
-    "count": 1,
-    "file_numbers": [
-      "111030"
-    ]
-  },
-  {
-    "keyword": "Mandatory BOP Test Verification Reporting",
-    "count": 1,
-    "file_numbers": [
-      "111030"
-    ]
-  },
-  {
-    "keyword": "Systematic Casing Integrity Check Monitoring",
-    "count": 1,
-    "file_numbers": [
-      "111030"
-    ]
-  },
-  {
-    "keyword": "Surface Hole Drilling",
-    "count": 1,
-    "file_numbers": [
-      "111030"
-    ]
-  },
-  {
-    "keyword": "Mud Density Range",
-    "count": 1,
-    "file_numbers": [
-      "111030"
-    ]
-  },
-  {
-    "keyword": "Ander-Drift Survey",
     "count": 1,
     "file_numbers": [
       "111030"
@@ -1781,31 +829,542 @@
     ]
   },
   {
-    "keyword": "Vertical Section Control",
+    "keyword": "High one-off insurance charge",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "High Winds",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "High-Pressure Leaks",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "High-Pressure Surface Line Leak Risk",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Hole Condition Maintenance",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "hole conditioning",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Hole Inclination",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Hole Stability Verification",
     "count": 1,
     "file_numbers": [
       "111030"
     ]
   },
   {
-    "keyword": "Bit and Torque Parameters",
+    "keyword": "Hole Verification",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Hole Verticality",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Hydraulic Calculation Module Data Failure",
     "count": 1,
     "file_numbers": [
       "111030"
     ]
   },
   {
-    "keyword": "Comprehensive Casing String Parameter Documentation",
+    "keyword": "Hydraulic Drilling Jars",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Inclination-Only Surveying",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Inclination-Only Surveys",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Inconsistent mud density data",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Initial Drilling Phase",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Initial Formation Drilling",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Inner Stinger RIH String Configuration",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Intranet Usage",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "IT Service Limitations",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Joint Handling",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Large Diameter Hole Section",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Lead Cement Slurry Pumping Parameters",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Limited Data Capability",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "liner configuration",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Lithology Composition",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Loss Performance",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Low Gravity Solids",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Mandatory BOP Test Verification Reporting",
     "count": 1,
     "file_numbers": [
       "111030"
     ]
   },
   {
-    "keyword": "Bolt Inspection",
+    "keyword": "Mandatory Elevator Size Verification",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Mandatory Safety Meetings",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Maximum Pump Pressure Limit",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Microwave Tower Rigidity Risk",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Mud Additive Consumption Data Tracking",
     "count": 1,
     "file_numbers": [
       "111030"
+    ]
+  },
+  {
+    "keyword": "Mud Building Rate",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Mud Density Range",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ]
+  },
+  {
+    "keyword": "Mud pump",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Multiple Daily Pre-Job Safety Meetings",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Multiple Reaming Passes",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Negative KB",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Negative KB-Ground Distance Offset Configuration",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ]
+  },
+  {
+    "keyword": "Office IT Cabling Installation",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Operation Classification",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Operational Constraints",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Operational Torque Limits",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Operational Trouble",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Operational Weight",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Personnel Injury",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Post-Cement Float Holding Verification",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Post-Cementing Circulation Procedure",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Postpone Equipment Installation",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Potential Work-around",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Pre-Cementing Circulation Volume",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Pre-Cementing Spacer and Flush Sequence",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Pre-Installation Casing Preparation Protocol",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Pre-Job Safety Meeting Implementation",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Pressure Testing",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Prevent Cuttings Build-up",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Prevent Mud Slugs",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Proactive Use",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Proper Infrastructure",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Pump Rates",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Pup Joints",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Recommended 26-inch Hole Drilling Parameters",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Recorded Directional Survey Data",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Repeated Reaming",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Report Date and Print Date",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ]
+  },
+  {
+    "keyword": "Reported End Depth",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Required Monitoring",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Rig Floor Access",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Rig Power Limitation",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Rig Repair",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Rigorous Inspection",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "road accessibility issues",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Rough Drilling",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Rough Drilling Operations",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Rough Road Conditions",
+    "count": 1,
+    "file_numbers": [
+      "111025"
     ]
   },
   {
@@ -1816,10 +1375,451 @@
     ]
   },
   {
-    "keyword": "Formation Sample Top Depth Documentation Requirements",
+    "keyword": "Shaker Cleaning Criteria",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Shaker Screen Sizing",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Shared Conduits",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "shock sub",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Shock Sub Integration",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Significant Fluid Losses",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Significant Gap",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Significant Mud Disposal",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Significant Timeline",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Simple Tightening",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Simultaneous VOIP",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Slow Rate",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Spud and BHA Handling",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Spud Phase",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Stable Hole Conditions",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Standard drilling parameters",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Standard Flow Rate",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Standardized Rig Acceptance",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Standardized Shaker",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Stinger Sealing Protocol",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Stuck Pipe",
     "count": 1,
     "file_numbers": [
       "111030"
+    ]
+  },
+  {
+    "keyword": "Successful Surface Drilling",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Surface BHA",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Surface Casing Cement Returns",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Surface Casing Slurry",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "surface drilling section",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Surface Flow Indications",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Surface Formation",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Surface Hole Drilling",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ]
+  },
+  {
+    "keyword": "Surface Hole Verticality Maintenance",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Surface Interval",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Surface Line Flush",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Surface Line Pressure Testing Standards",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Surface Repairs",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Surface Section Reaming",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Systematic Casing Integrity Check Monitoring",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ]
+  },
+  {
+    "keyword": "T-Card System",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Tagged Bottom Depth Measurement",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Tail Cement Slurry Parameters",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Target Mill RPM Range",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Thick Mud Slugs",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Three Pumps",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Three-Point BHA Stabilization Strategy",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "to Review Operational Objectives",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Top Drive Bolt Inspection Post-Spudding",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Total Drilling Fluid Losses",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Track Upper Fars Formation Top",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Unconventional KB",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Underflow Monitoring Protocols",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ]
+  },
+  {
+    "keyword": "Unfit Equipment",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Upper Fars",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Verifying Hole Condition",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ]
+  },
+  {
+    "keyword": "Vertical Section Control",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ]
+  },
+  {
+    "keyword": "Verticality Control",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Vibration Dampening",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Vibration Mitigation",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ]
+  },
+  {
+    "keyword": "Water Level Monitoring",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Weight Application",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Well Site",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Wellbore Deviation",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ]
+  },
+  {
+    "keyword": "Wellbore Instability Risk",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ]
+  },
+  {
+    "keyword": "Wellbore Trajectory Uncertainty",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ]
+  },
+  {
+    "keyword": "Wellbore Verticality",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ]
+  },
+  {
+    "keyword": "Wireless Connectivity",
+    "count": 1,
+    "file_numbers": [
+      "111025"
     ]
   }
 ]

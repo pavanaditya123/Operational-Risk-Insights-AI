@@ -1,0 +1,678 @@
+[
+  {
+    "keyword": "Microwave Tower Rigidity Risk",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "High",
+    "risk_score": 70,
+    "category": "Safety Risk",
+    "reasoning": "Rigidity risk for a microwave tower implies potential structural failure, posing a safety hazard or causing operational disruption."
+  },
+  {
+    "keyword": "High-Pressure Surface Line Leak Risk",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ],
+    "is_risk": true,
+    "risk_level": "High",
+    "risk_score": 70,
+    "category": "Safety Risk",
+    "reasoning": "This phrase directly indicates a high-pressure leak risk, which is a critical safety and equipment integrity concern."
+  },
+  {
+    "keyword": "High-Pressure Leaks",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ],
+    "is_risk": true,
+    "risk_level": "High",
+    "risk_score": 70,
+    "category": "Safety Risk",
+    "reasoning": "High-pressure leaks pose a significant threat to personnel safety and can lead to equipment failure and operational downtime."
+  },
+  {
+    "keyword": "Surface Flow Indications",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ],
+    "is_risk": true,
+    "risk_level": "Medium",
+    "risk_score": 50,
+    "category": "Safety Risk",
+    "reasoning": "Surface flow indications suggest an influx or kick, posing a direct threat to well control and safety."
+  },
+  {
+    "keyword": "Stuck Pipe",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ],
+    "is_risk": true,
+    "risk_level": "Medium",
+    "risk_score": 50,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Stuck pipe is a significant operational hazard that can lead to major non-productive time and wellbore integrity issues."
+  },
+  {
+    "keyword": "Significant Fluid Losses",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Medium",
+    "risk_score": 50,
+    "category": "Hydraulic Risk",
+    "reasoning": "Significant fluid losses represent a hydraulic risk, potentially leading to well control issues and NPT."
+  },
+  {
+    "keyword": "Wellbore Instability Risk",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Medium",
+    "risk_score": 40,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Explicitly states a significant risk to wellbore stability, threatening operational continuity."
+  },
+  {
+    "keyword": "Personnel Injury",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Medium",
+    "risk_score": 40,
+    "category": "Safety Risk",
+    "reasoning": "This phrase directly indicates an incident involving personnel injury, which is a safety risk."
+  },
+  {
+    "keyword": "Downhole Fluid Losses",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Medium",
+    "risk_score": 40,
+    "category": "Hydraulic Risk",
+    "reasoning": "Downhole fluid losses represent a hydraulic issue threatening well integrity and operations."
+  },
+  {
+    "keyword": "Unfit Equipment",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 30,
+    "category": "Equipment Risk",
+    "reasoning": "Unfit equipment implies a failure or degraded condition requiring intervention and leading to NPT."
+  },
+  {
+    "keyword": "Rig Repair",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 30,
+    "category": "Equipment Risk",
+    "reasoning": "Rig repair indicates a prior equipment failure requiring maintenance, causing NPT."
+  },
+  {
+    "keyword": "Rig Power Limitation",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 30,
+    "category": "Equipment Risk",
+    "reasoning": "Rig power limitation is an equipment issue that can impact operational performance and efficiency."
+  },
+  {
+    "keyword": "Hydraulic Calculation Module Data Failure",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 30,
+    "category": "Equipment Risk",
+    "reasoning": "Data failure in a hydraulic module indicates an equipment issue requiring investigation."
+  },
+  {
+    "keyword": "Equipment Damage",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 30,
+    "category": "Equipment Risk",
+    "reasoning": "Explicitly mentions damage to equipment, indicating an operational issue and potential NPT."
+  },
+  {
+    "keyword": "False Flow Indications",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 20,
+    "category": "Equipment Risk",
+    "reasoning": "False flow indications represent a monitoring equipment issue, which can lead to misinterpretation of well conditions."
+  },
+  {
+    "keyword": "Low Rate",
+    "count": 3,
+    "file_numbers": [
+      "111028",
+      "111029",
+      "111030"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 15,
+    "category": "Drilling Performance Risk",
+    "reasoning": "Low rate indicates degraded drilling performance which could lead to non-productive time."
+  },
+  {
+    "keyword": "Inclination Only Survey Data Limitation",
+    "count": 2,
+    "file_numbers": [
+      "111029",
+      "111030"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 15,
+    "category": "Survey Risk",
+    "reasoning": "This indicates a limitation in survey data quality, which presents a low-level operational risk."
+  },
+  {
+    "keyword": "Bit Bounce",
+    "count": 2,
+    "file_numbers": [
+      "111025",
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 15,
+    "category": "Drilling Performance Risk",
+    "reasoning": "Bit bounce indicates drilling instability, negatively impacting performance and potentially causing NPT."
+  },
+  {
+    "keyword": "Wellbore Trajectory Uncertainty",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Survey Risk",
+    "reasoning": "Indicates a potential issue with wellbore survey accuracy, which can lead to operational complications."
+  },
+  {
+    "keyword": "Vibration Mitigation",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Drilling Performance Risk",
+    "reasoning": "Vibration mitigation addresses a drilling performance risk associated with harmful vibrations."
+  },
+  {
+    "keyword": "Vibration Dampening",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Drilling Performance Risk",
+    "reasoning": "Vibration dampening addresses a drilling performance risk related to unwanted vibrations."
+  },
+  {
+    "keyword": "Total Drilling Fluid Losses",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Hydraulic Risk",
+    "reasoning": "Drilling fluid losses represent a hydraulic risk, potentially leading to lost circulation and NPT."
+  },
+  {
+    "keyword": "Tagged Bottom Depth Measurement",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Tagged bottom indicates an obstruction in the wellbore, affecting operations and causing NPT."
+  },
+  {
+    "keyword": "Surface Section Reaming",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Reaming often indicates minor wellbore stability issues or conditions requiring remedial action."
+  },
+  {
+    "keyword": "Surface Repairs",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Equipment Risk",
+    "reasoning": "Repairs indicate a prior equipment issue requiring intervention and implying NPT."
+  },
+  {
+    "keyword": "Slow Rate",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Drilling Performance Risk",
+    "reasoning": "A slow rate indicates degraded drilling performance which can lead to non-productive time."
+  },
+  {
+    "keyword": "Significant Mud Disposal",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Hydraulic Risk",
+    "reasoning": "Significant mud disposal may indicate an underlying fluid or wellbore issue requiring attention."
+  },
+  {
+    "keyword": "Rough Road Conditions",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Safety Risk",
+    "reasoning": "Rough road conditions can lead to logistical delays, impacting operational efficiency and safety."
+  },
+  {
+    "keyword": "Rough Drilling Operations",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Drilling Performance Risk",
+    "reasoning": "Rough drilling operations indicate performance issues such as vibration and reduced efficiency."
+  },
+  {
+    "keyword": "Rough Drilling",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Drilling Performance Risk",
+    "reasoning": "Rough drilling indicates drilling performance issues like excessive vibration or inefficiency."
+  },
+  {
+    "keyword": "road accessibility issues",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Safety Risk",
+    "reasoning": "Road accessibility issues can lead to operational delays and potentially impact safety or logistics."
+  },
+  {
+    "keyword": "Repeated Reaming",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Repeated reaming suggests potential wellbore stability issues or tight hole conditions."
+  },
+  {
+    "keyword": "Prevent Mud Slugs",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Hydraulic Risk",
+    "reasoning": "This indicates a proactive measure against a potential hydraulic issue related to mud slugs."
+  },
+  {
+    "keyword": "Prevent Cuttings Build-up",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "This indicates a proactive measure against a potential wellbore stability issue from cuttings."
+  },
+  {
+    "keyword": "Potential Work-around",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Drilling Performance Risk",
+    "reasoning": "The mention of a work-around suggests an existing or anticipated operational issue."
+  },
+  {
+    "keyword": "Postpone Equipment Installation",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Equipment Risk",
+    "reasoning": "Postponing equipment installation indicates a delay, leading to non-productive time."
+  },
+  {
+    "keyword": "Operational Trouble",
+    "count": 1,
+    "file_numbers": [
+      "111028"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Drilling Performance Risk",
+    "reasoning": "The phrase explicitly indicates operational trouble, suggesting a performance issue."
+  },
+  {
+    "keyword": "Negative KB-Ground Distance Offset Configuration",
+    "count": 1,
+    "file_numbers": [
+      "111030"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Survey Risk",
+    "reasoning": "This configuration issue implies a potential survey error or depth uncertainty."
+  },
+  {
+    "keyword": "Negative KB",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Survey Risk",
+    "reasoning": "A negative KB implies a potential measurement or survey anomaly requiring verification."
+  },
+  {
+    "keyword": "Multiple Reaming Passes",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Multiple reaming passes suggest potential wellbore issues or increased drilling time."
+  },
+  {
+    "keyword": "Loss Performance",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Drilling Performance Risk",
+    "reasoning": "Loss Performance indicates degraded operational efficiency, potentially causing non-productive time."
+  },
+  {
+    "keyword": "Inconsistent mud density data",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Hydraulic Risk",
+    "reasoning": "Inconsistent mud density data suggests a potential issue with mud system monitoring or performance."
+  },
+  {
+    "keyword": "High Winds",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Safety Risk",
+    "reasoning": "High winds are an environmental condition that can create safety hazards and disrupt drilling operations."
+  },
+  {
+    "keyword": "High Cumulative Swivel Hours",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Equipment Risk",
+    "reasoning": "High cumulative swivel hours suggest equipment wear, indicating potential for future failure or required maintenance."
+  },
+  {
+    "keyword": "Ground Level Concern",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Safety Risk",
+    "reasoning": "A 'ground level concern' implies an unspecified issue on location, potentially affecting safety or operations."
+  },
+  {
+    "keyword": "Gradual Weight Increase",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Gradual weight increase can indicate increased drag due to hole fill or wellbore instability issues."
+  },
+  {
+    "keyword": "Fluid Losses",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Hydraulic Risk",
+    "reasoning": "Fluid losses indicate a hydraulic issue that can lead to non-productive time and potential wellbore instability."
+  },
+  {
+    "keyword": "excessive torque",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Excessive torque suggests potential wellbore stability issues or drilling performance problems."
+  },
+  {
+    "keyword": "Equipment Damage Risk",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Equipment Risk",
+    "reasoning": "Explicitly identifies a risk of damage to equipment, indicating a potential operational hazard."
+  },
+  {
+    "keyword": "Directional Survey Limitation",
+    "count": 1,
+    "file_numbers": [
+      "111114"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Survey Risk",
+    "reasoning": "A directional survey limitation indicates a degraded condition affecting accuracy or operation."
+  },
+  {
+    "keyword": "Depth Discrepancy",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Survey Risk",
+    "reasoning": "A discrepancy in depth measurement indicates an issue with survey accuracy."
+  },
+  {
+    "keyword": "deep reaming",
+    "count": 1,
+    "file_numbers": [
+      "111029"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Deep reaming suggests wellbore integrity issues requiring corrective action."
+  },
+  {
+    "keyword": "Declining ROP Trend",
+    "count": 1,
+    "file_numbers": [
+      "111027"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Drilling Performance Risk",
+    "reasoning": "Declining Rate of Penetration indicates a degradation in drilling performance."
+  },
+  {
+    "keyword": "Data Transmission Interference",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Equipment Risk",
+    "reasoning": "Data transmission interference can disrupt operations and lead to non-productive time."
+  },
+  {
+    "keyword": "Conflicting Depth Data",
+    "count": 1,
+    "file_numbers": [
+      "111025"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Survey Risk",
+    "reasoning": "Conflicting depth data introduces survey uncertainty which can cause operational delays."
+  },
+  {
+    "keyword": "Claystone Formations",
+    "count": 1,
+    "file_numbers": [
+      "111026"
+    ],
+    "is_risk": true,
+    "risk_level": "Low",
+    "risk_score": 10,
+    "category": "Wellbore Stability Risk",
+    "reasoning": "Presence of claystone formations can indicate potential wellbore instability risks."
+  }
+]
