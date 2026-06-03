@@ -1,7 +1,5 @@
 # Operational Insights AI
 
-Repository name: `ops-insight-ai`
-
 Operational Insights AI is a Python pipeline for extracting repeated operational keyphrases from Excel reports and classifying them into drilling-operation risk categories using Gemini.
 
 The project reads report/log text from an Excel sheet, extracts noun-phrase keywords with spaCy, counts recurring issues, maps them back to file numbers, and optionally uses an LLM to generate a risk-ranked summary.
